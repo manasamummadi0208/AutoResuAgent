@@ -394,7 +394,7 @@ docker-compose logs -f frontend
 ## Credits
 
 - **Author**: Manasa Mummadi
-- **Course**: CS 675 - Introduction to AI (Fall 2024)
+- **Course**: CS 678 - Advanced Natural Language Processing (Fall 2025)
 - **Instructor**: Dr. Ziyu Yao
 - **Institution**: George Mason University
 
